@@ -1,3 +1,9 @@
+Einfach im Terminal ohne cd 
+imessage-exporter -f html -c compatible
+
+Ergebnis landet im Benutzerordner.
+
+
 # imessage-exporter
 
 This crate provides both a library to interact with iMessage data as well as a binary that can perform some useful read-only operations using that data. The aim of this project is to provide the most comprehensive and accurate representation of iMessage data available.
